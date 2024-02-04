@@ -30,8 +30,7 @@ Navigate through the lush environment, encounter intelligent wild rabbits, and e
 
 To embark on your Jungle Explorer adventure, follow these simple steps:
 
-1-Clone the repository: git clone https://github.com/yourusername/jungle-explorer.git
-
+1-Clone the repository: git clone https://github.com/helya02/Survival-3D-Game.git
 2-Open the project in Unity.
 
 3-Navigate through the jungle, gather resources, and craft essential tools.
